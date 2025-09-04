@@ -28,7 +28,8 @@ Sigue las instrucciones especificas de cada opcion
    Prueba numeros 1-9 que sean validos segun esSeguro() (no repetido en fila, columna y subcuadro 3x3)
    Avanza si es valido si mas adelante falla retrocede y prueba otro numero
    Imprime el tablero resuelto o informa si no tiene solucion
-
+   Si escoges la opcion 2 que es para capturar las 9 filas de 9 numeros (0-9) cuando hayas terminado de poner los 9 numeros en la primera fila le picas enter para poder seguir con la siguiente fila y asi seguidamente hasta que llegues a la utlima fila
+   
    Fibonacci: solo acepta enteros no negativos
    Subset Sum: parsea enteros desde texto y valida el objetivo
    Sudoku: verifica 9 numeros por fila (0-9) y respeta reglas del juego
